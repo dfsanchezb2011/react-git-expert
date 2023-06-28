@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifItem Component Tests Test 1. Snapshot - Must match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Mash Up Pokemon GIF by Mic"
+      src="https://media0.giphy.com/media/Yrjxrzz4uFENG/giphy.gif?cid=dbe5ecd7ijba4oi6kobsj10vnl07gv2eoad4x0pad3j0i3ln&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Mash Up Pokemon GIF by Mic
+    </p>
+  </div>
+</div>
+`;
